@@ -1,0 +1,18 @@
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\bin\Debug\Barber.exe.config
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\bin\Debug\Barber.exe
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\bin\Debug\Barber.pdb
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\obj\Debug\Barber.Barbershop.resources
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\obj\Debug\Barber.Properties.Resources.resources
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\obj\Debug\Barber.csproj.GenerateResource.Cache
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\obj\Debug\Barber.exe
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\obj\Debug\Barber.pdb
+D:\Учёба\Лабораторные работы\Семестр 4.2\ПРВ\Lab1\LAB11\Barber\Barber\obj\Debug\Barber.csprojResolveAssemblyReference.cache
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\bin\Debug\Barber.exe.config
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\obj\Debug\Barber.exe
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\obj\Debug\Barber.pdb
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\bin\Debug\Barber.exe
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\bin\Debug\Barber.pdb
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\obj\Debug\Barber.csprojResolveAssemblyReference.cache
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\obj\Debug\Barber.Barbershop.resources
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\obj\Debug\Barber.Properties.Resources.resources
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\New 2016\Barber\Barber\obj\Debug\Barber.csproj.GenerateResource.Cache
